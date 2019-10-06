@@ -1,4 +1,4 @@
-This is a Cracker for Shool Pc
+This is a Cracker for School Pc
 
 
 1. First Download it
@@ -6,3 +6,7 @@ This is a Cracker for Shool Pc
 3. Run Cracker.bat
 4. ????!!!!??
 5. Profit
+
+maybe it is Ilegal maybe 
+
+code by An0-gen & DarkCode
