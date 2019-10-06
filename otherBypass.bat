@@ -6,6 +6,8 @@ CHOICE /c YN /m "Yes or No"
 
 @echo OFF
 echo bypassing now
+pause
+echo The Bypass Start
 
 @echo OFF
 IPCONFIG
