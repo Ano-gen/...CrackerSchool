@@ -5,4 +5,7 @@ ECHO Enter N for no
 CHOICE /c YN /m "Yes or No"
 
 @echo OFF
+echo bypassing now
+
+@echo OFF
 DISKPART
