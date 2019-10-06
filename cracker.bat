@@ -1,8 +1,8 @@
 @echo OFF
-TITLE Cracker-ByPass
+TITLE Cracker for ShoolPC V3 | Develop by An0-gen
 
 @echo OFF
-ECHO You want Crack?
+ECHO You want to Crack a Shool PC?
 ECHO Enter Y for yes
 ECHO Enter N for no
 CHOICE /c YN /m "Yes or No"
