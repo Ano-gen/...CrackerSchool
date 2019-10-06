@@ -1,5 +1,11 @@
 @echo OFF
-TITLE Cracker for SchoolPC v7    Develop by An0-gen and DarkCode
+TITLE Cracker for SchoolPC v8    Develop by An0-gen and DarkCode
+
+@echo OFF
+ECHO %TIME%
+
+@echo OFF
+ECHO 
 
 @echo OFF
 ECHO You want to Crack a School PC?
