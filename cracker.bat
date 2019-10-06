@@ -1,5 +1,6 @@
 @echo OFF
-TITLE Cracker for ShoolPC v3 | Develop by An0-gen
+TITLE Cracker for ShoolPC v4    Develop by An0-gen
+
 @echo OFF
 ECHO You want to Crack a Shool PC?
 ECHO Enter Y for yes
