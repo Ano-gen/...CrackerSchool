@@ -1,11 +1,14 @@
 @echo OFF
-TITLE Cracker for SchoolPC v6    Develop by An0-gen
+TITLE Cracker for SchoolPC v7    Develop by An0-gen and DarkCode
 
 @echo OFF
 ECHO You want to Crack a School PC?
 ECHO Enter Y for yes
 ECHO Enter N for no
 CHOICE /c YN /m "Yes or No"
+
+@echo OFF
+NET users
 
 @echo OFF
 IPCONFIG
