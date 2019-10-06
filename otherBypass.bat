@@ -8,4 +8,7 @@ CHOICE /c YN /m "Yes or No"
 echo bypassing now
 
 @echo OFF
+IPCONFIG
+
+@echo OFF
 DISKPART
