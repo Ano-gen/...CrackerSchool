@@ -4,6 +4,8 @@ TITLE Cracker for SchoolPC v9    Develop by An0-gen and DarkCode
 @echo OFF
 ECHO %TIME%
 
+@echo OFF
+echo %DATE%
 
 @echo OFF
 ECHO You want to Crack a School PC?
