@@ -9,4 +9,18 @@ This is a Cracker for School Pc
 
 maybe it is Ilegal maybe 
 
+if you want to be coder in our Team dm me on IG: an0_gen
+
+If want to support us then you Dm me on IG: an0_gen 
+
+for 5€ your'e have this advantages:
+
+1.Early access to New Feature
+
+2. Better Performence
+
+3. Usb tool
+
+
+
 code by An0-gen & DarkCode
