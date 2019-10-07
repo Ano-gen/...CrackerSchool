@@ -1,8 +1,6 @@
 @echo OFF
-TITLE Cracker for SchoolPC v9    Develop by An0-gen and DarkCode
+TITLE Cracker for SchoolPC v10    Develop by An0-gen and DarkCode
 
-@echo OFF
-ECHO %TIME%
 
 @echo OFF
 echo %DATE%
