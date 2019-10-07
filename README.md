@@ -15,7 +15,7 @@ If want to support us then you Dm me on IG: an0_gen
 
 for 5€ your'e have this advantages:
 
-1.Early access to New Feature
+1. Early access to New Feature
 
 2. Better Performence
 
